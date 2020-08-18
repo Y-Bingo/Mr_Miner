@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6fc8e072-fead-4ed2-acd3-1a41fab08765",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1067,
+  "height": 600,
+  "platformSettings": {},
+  "subMetas": {
+    "SnowBackgroundShop0": {
+      "ver": "1.0.4",
+      "uuid": "499d0f00-cde4-45ef-885e-343f5bfd49c9",
+      "rawTextureUuid": "6fc8e072-fead-4ed2-acd3-1a41fab08765",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1067,
+      "height": 600,
+      "rawWidth": 1067,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

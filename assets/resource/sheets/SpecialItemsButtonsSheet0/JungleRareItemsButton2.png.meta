@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b2b99acd-0183-4f76-8476-8eb58f996f8b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 138,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "JungleRareItemsButton2": {
+      "ver": "1.0.4",
+      "uuid": "5e9b9974-e64f-40df-9cdc-f9c97757212c",
+      "rawTextureUuid": "b2b99acd-0183-4f76-8476-8eb58f996f8b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 138,
+      "height": 96,
+      "rawWidth": 138,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5b24769c-7897-4fda-b4b1-8b3c0f866336",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 173,
+  "height": 147,
+  "platformSettings": {},
+  "subMetas": {
+    "BlackSpecialVikingLongboat0": {
+      "ver": "1.0.4",
+      "uuid": "2a396871-7af4-43fb-9431-146addd4d68e",
+      "rawTextureUuid": "5b24769c-7897-4fda-b4b1-8b3c0f866336",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 173,
+      "height": 147,
+      "rawWidth": 173,
+      "rawHeight": 147,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

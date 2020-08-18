@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6bdc4e6d-ad66-4297-a042-e0f510665725",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 221,
+  "height": 211,
+  "platformSettings": {},
+  "subMetas": {
+    "SpecialTriceratopsSkull0": {
+      "ver": "1.0.4",
+      "uuid": "0f051e8f-445b-4f8c-9665-c554337bd8ae",
+      "rawTextureUuid": "6bdc4e6d-ad66-4297-a042-e0f510665725",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 221,
+      "height": 211,
+      "rawWidth": 221,
+      "rawHeight": 211,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

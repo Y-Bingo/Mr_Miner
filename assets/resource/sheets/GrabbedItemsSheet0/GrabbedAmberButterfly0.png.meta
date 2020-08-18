@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "df916155-9edb-4187-a458-2b658c5b93e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 99,
+  "height": 118,
+  "platformSettings": {},
+  "subMetas": {
+    "GrabbedAmberButterfly0": {
+      "ver": "1.0.4",
+      "uuid": "dff3b41f-946d-4da9-9d40-044a76902373",
+      "rawTextureUuid": "df916155-9edb-4187-a458-2b658c5b93e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 99,
+      "height": 118,
+      "rawWidth": 99,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8e07fd9d-bed9-4cd4-bf43-6b2fb2aa9586",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1067,
+  "height": 600,
+  "platformSettings": {},
+  "subMetas": {
+    "VolcanoBackground2": {
+      "ver": "1.0.4",
+      "uuid": "dda03069-4d52-4b8e-af3a-41d8502a344a",
+      "rawTextureUuid": "8e07fd9d-bed9-4cd4-bf43-6b2fb2aa9586",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1067,
+      "height": 600,
+      "rawWidth": 1067,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

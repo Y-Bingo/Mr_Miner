@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "398e50aa-5c92-493b-ac60-9702fbd09a7b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 120,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "MrMinerShocked_013": {
+      "ver": "1.0.4",
+      "uuid": "269db69c-f440-49d4-826a-42e1ad018bb0",
+      "rawTextureUuid": "398e50aa-5c92-493b-ac60-9702fbd09a7b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 18,
+      "trimY": 15,
+      "width": 84,
+      "height": 90,
+      "rawWidth": 120,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

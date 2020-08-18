@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8c345fcb-557f-40a8-9793-af4c945f9941",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1067,
+  "height": 600,
+  "platformSettings": {},
+  "subMetas": {
+    "JungleBackgroundShop0": {
+      "ver": "1.0.4",
+      "uuid": "7b61e6b4-e821-497e-9b25-58009fa7dcdb",
+      "rawTextureUuid": "8c345fcb-557f-40a8-9793-af4c945f9941",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1067,
+      "height": 600,
+      "rawWidth": 1067,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

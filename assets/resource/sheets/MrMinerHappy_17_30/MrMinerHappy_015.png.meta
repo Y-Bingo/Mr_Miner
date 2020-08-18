@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5d46e778-12fe-4c14-9e62-83becce7fcb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 120,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "MrMinerHappy_015": {
+      "ver": "1.0.4",
+      "uuid": "ff745ea3-e2ca-4cee-94b2-b54bcce68502",
+      "rawTextureUuid": "5d46e778-12fe-4c14-9e62-83becce7fcb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 21,
+      "trimY": 12,
+      "width": 78,
+      "height": 95,
+      "rawWidth": 120,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

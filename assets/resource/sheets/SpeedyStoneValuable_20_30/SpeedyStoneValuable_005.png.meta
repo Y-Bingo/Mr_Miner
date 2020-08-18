@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "05ec0822-5091-45b4-b4b5-1293bfd87927",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 115,
+  "height": 115,
+  "platformSettings": {},
+  "subMetas": {
+    "SpeedyStoneValuable_005": {
+      "ver": "1.0.4",
+      "uuid": "9c750db8-1513-43cc-8261-1ad45715f255",
+      "rawTextureUuid": "05ec0822-5091-45b4-b4b5-1293bfd87927",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 13,
+      "trimY": 7,
+      "width": 88,
+      "height": 101,
+      "rawWidth": 115,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

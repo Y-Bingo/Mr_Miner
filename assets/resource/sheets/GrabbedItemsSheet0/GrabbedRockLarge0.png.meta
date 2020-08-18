@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b90d3a8c-a294-4329-93fc-2b10afb9ba67",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 121,
+  "platformSettings": {},
+  "subMetas": {
+    "GrabbedRockLarge0": {
+      "ver": "1.0.4",
+      "uuid": "ac5dd8fb-3097-479d-ae6a-db771fdc8dbc",
+      "rawTextureUuid": "b90d3a8c-a294-4329-93fc-2b10afb9ba67",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 104,
+      "height": 121,
+      "rawWidth": 104,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

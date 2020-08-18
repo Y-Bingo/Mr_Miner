@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "41efe98d-bb08-4cf9-9609-51e4f3ee3199",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 688,
+  "height": 442,
+  "platformSettings": {},
+  "subMetas": {
+    "UpgradeStationCave0": {
+      "ver": "1.0.4",
+      "uuid": "cc76ae0a-9149-48da-9016-856a776cd6b0",
+      "rawTextureUuid": "41efe98d-bb08-4cf9-9609-51e4f3ee3199",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 688,
+      "height": 441,
+      "rawWidth": 688,
+      "rawHeight": 442,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

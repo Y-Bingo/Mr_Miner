@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bd2701e5-3e27-4b1a-b127-56a21f450681",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1067,
+  "height": 600,
+  "platformSettings": {},
+  "subMetas": {
+    "VolcanoBackgroundShop0": {
+      "ver": "1.0.4",
+      "uuid": "a6a1056b-69e2-4f58-b84b-6bea5fd0dcbd",
+      "rawTextureUuid": "bd2701e5-3e27-4b1a-b127-56a21f450681",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1067,
+      "height": 600,
+      "rawWidth": 1067,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

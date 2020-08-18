@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "aff6e255-69e1-4373-8229-a96e67bb64e8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 138,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "GrassRareItemsButton1": {
+      "ver": "1.0.4",
+      "uuid": "0bfe50bf-78a2-471f-a24b-3b438c7c2238",
+      "rawTextureUuid": "aff6e255-69e1-4373-8229-a96e67bb64e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 138,
+      "height": 91,
+      "rawWidth": 138,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

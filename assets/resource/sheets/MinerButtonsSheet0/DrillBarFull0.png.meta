@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "80811bef-a7da-433b-836b-39a0a3c185e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 183,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "DrillBarFull0": {
+      "ver": "1.0.4",
+      "uuid": "bedb5b60-be7b-4456-8b9a-757e30494060",
+      "rawTextureUuid": "80811bef-a7da-433b-836b-39a0a3c185e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 183,
+      "height": 32,
+      "rawWidth": 183,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

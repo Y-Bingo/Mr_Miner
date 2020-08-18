@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "037abb3a-01c5-4b59-a383-99ee36a026f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 68,
+  "height": 83,
+  "platformSettings": {},
+  "subMetas": {
+    "GoldenIdolOn1": {
+      "ver": "1.0.4",
+      "uuid": "7d22c761-6dff-4058-a905-0cb783f92c52",
+      "rawTextureUuid": "037abb3a-01c5-4b59-a383-99ee36a026f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 83,
+      "rawWidth": 68,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

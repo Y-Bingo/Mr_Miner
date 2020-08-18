@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0818d201-e35b-43fa-ad33-728449fe3156",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 74,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "GrabbedGoldMedium1": {
+      "ver": "1.0.4",
+      "uuid": "07eecffd-7374-4b41-89f1-0d742dc89fc3",
+      "rawTextureUuid": "0818d201-e35b-43fa-ad33-728449fe3156",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 88,
+      "rawWidth": 74,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

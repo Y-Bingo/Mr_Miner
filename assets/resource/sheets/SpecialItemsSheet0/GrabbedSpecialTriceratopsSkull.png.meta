@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1fd21b54-1f83-4af0-a7cb-ad37f9bb5358",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 233,
+  "height": 239,
+  "platformSettings": {},
+  "subMetas": {
+    "GrabbedSpecialTriceratopsSkull": {
+      "ver": "1.0.4",
+      "uuid": "41849edc-3ce2-42f2-a649-5db1e95ed1d3",
+      "rawTextureUuid": "1fd21b54-1f83-4af0-a7cb-ad37f9bb5358",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 233,
+      "height": 239,
+      "rawWidth": 233,
+      "rawHeight": 239,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

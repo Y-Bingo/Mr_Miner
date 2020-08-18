@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9c831e41-c35b-49bd-8d2a-2b3481b554a7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 137,
+  "height": 217,
+  "platformSettings": {},
+  "subMetas": {
+    "DiggerMachineBurst_002": {
+      "ver": "1.0.4",
+      "uuid": "84a954f7-5668-4fa6-8a42-7c5ad36982d2",
+      "rawTextureUuid": "9c831e41-c35b-49bd-8d2a-2b3481b554a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 43,
+      "width": 137,
+      "height": 131,
+      "rawWidth": 137,
+      "rawHeight": 217,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

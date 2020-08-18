@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f77e567b-7883-44c4-980e-164c9fc52f2b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 71,
+  "height": 74,
+  "platformSettings": {},
+  "subMetas": {
+    "ObsidianMedium1": {
+      "ver": "1.0.4",
+      "uuid": "8f36323e-48f4-4253-bcb2-9f79eb548475",
+      "rawTextureUuid": "f77e567b-7883-44c4-980e-164c9fc52f2b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 74,
+      "rawWidth": 71,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

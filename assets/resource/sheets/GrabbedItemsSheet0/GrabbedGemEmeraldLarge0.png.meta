@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8ebc6fd6-7949-4fda-ae6f-84b0a8875d45",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "GrabbedGemEmeraldLarge0": {
+      "ver": "1.0.4",
+      "uuid": "a04e88a4-e619-49e9-ad82-2dcd14db4011",
+      "rawTextureUuid": "8ebc6fd6-7949-4fda-ae6f-84b0a8875d45",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 107,
+      "rawWidth": 81,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c8c1cafa-fcf5-48ca-a6b5-c92fca295c6c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 138,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "DesertRareItemsButton2": {
+      "ver": "1.0.4",
+      "uuid": "a2d25e23-95de-4a79-9bbe-dbcd3f49f3aa",
+      "rawTextureUuid": "c8c1cafa-fcf5-48ca-a6b5-c92fca295c6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 138,
+      "height": 96,
+      "rawWidth": 138,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

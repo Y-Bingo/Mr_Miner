@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0b6c95b4-9cbd-4a72-9da3-f228a2dce35e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 138,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "VolcanoRareItemsButton2": {
+      "ver": "1.0.4",
+      "uuid": "dcaf7c36-d44a-422a-8f6e-86c70d25b1dd",
+      "rawTextureUuid": "0b6c95b4-9cbd-4a72-9da3-f228a2dce35e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 138,
+      "height": 96,
+      "rawWidth": 138,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "654afbfb-7788-47f2-8d48-671ca2a32e97",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 97,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "GrabbedFrozenBone01": {
+      "ver": "1.0.4",
+      "uuid": "9e62e946-9179-4e43-bd78-2e7594682929",
+      "rawTextureUuid": "654afbfb-7788-47f2-8d48-671ca2a32e97",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 97,
+      "height": 120,
+      "rawWidth": 97,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

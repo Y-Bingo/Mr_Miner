@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ef322bf7-5bfd-4055-ae4d-f9d45c405bc2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 115,
+  "height": 115,
+  "platformSettings": {},
+  "subMetas": {
+    "SpeedyStoneMine_004": {
+      "ver": "1.0.4",
+      "uuid": "26aa538b-4491-4872-b28c-d7005196ecdc",
+      "rawTextureUuid": "ef322bf7-5bfd-4055-ae4d-f9d45c405bc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 13,
+      "trimY": 11,
+      "width": 89,
+      "height": 93,
+      "rawWidth": 115,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

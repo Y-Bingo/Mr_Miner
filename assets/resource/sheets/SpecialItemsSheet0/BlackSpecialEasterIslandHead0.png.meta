@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c4da9d5c-97a4-42d6-91c7-ae5a86f43ba2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 89,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "BlackSpecialEasterIslandHead0": {
+      "ver": "1.0.4",
+      "uuid": "7463bc3b-ec94-42c9-86af-b5310717a490",
+      "rawTextureUuid": "c4da9d5c-97a4-42d6-91c7-ae5a86f43ba2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 120,
+      "rawWidth": 89,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

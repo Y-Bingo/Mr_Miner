@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "73afea39-1f66-49d0-8695-eebb0c19ca13",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 120,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "MrMinerWalk_008": {
+      "ver": "1.0.4",
+      "uuid": "021c7bf9-de69-4e41-9796-d3a3faf33bbd",
+      "rawTextureUuid": "73afea39-1f66-49d0-8695-eebb0c19ca13",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 20,
+      "trimY": 12,
+      "width": 80,
+      "height": 96,
+      "rawWidth": 120,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

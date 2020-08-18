@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9761cfd0-55cb-4867-9fc6-3d6cb9e36689",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "BlockBoulderIdle_011": {
+      "ver": "1.0.4",
+      "uuid": "2fc2cd21-6dac-4848-95f0-47c6ea990dd9",
+      "rawTextureUuid": "9761cfd0-55cb-4867-9fc6-3d6cb9e36689",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 4,
+      "trimY": 6,
+      "width": 171,
+      "height": 167,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

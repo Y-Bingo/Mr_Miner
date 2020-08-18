@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "876d82c9-c7c6-41f0-907f-f3922993c04f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 106,
+  "height": 103,
+  "platformSettings": {},
+  "subMetas": {
+    "RockLargeSilver0": {
+      "ver": "1.0.4",
+      "uuid": "415738c4-5103-4d8a-bca3-331f4ddbcd24",
+      "rawTextureUuid": "876d82c9-c7c6-41f0-907f-f3922993c04f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 106,
+      "height": 103,
+      "rawWidth": 106,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
