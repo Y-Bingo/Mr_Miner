@@ -2565,7 +2565,9 @@
       "__id__": 62
     },
     "_enabled": true,
-    "_clip": null,
+    "_clip": {
+      "__uuid__": "9dd04c74-038f-4d8c-9d36-524961bd9647"
+    },
     "_volume": 1,
     "_mute": false,
     "_loop": false,
