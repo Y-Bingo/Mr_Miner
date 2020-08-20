@@ -1,9 +1,10 @@
+import { SingletonClass } from './SingletonClass';
 
 
 /**
  * 声音管理器
  */
 
-class SoundMrg {
+export class SoundMrg extends SingletonClass{
 
 }

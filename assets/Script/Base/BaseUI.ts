@@ -9,7 +9,7 @@
 //  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/life-cycle-callbacks.html
 
 import UIHelp from "../Base/UIHelper";
-import LogUtils from "../core/LogUtils";
+import LogUtils from "../Util/LogUtils";
 import { IUIBinder } from "./UIConstants";
 
 const { ccclass, property } = cc._decorator;

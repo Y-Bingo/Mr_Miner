@@ -1,3 +1,4 @@
+import App from "../Mrg/APP";
 
 const { ccclass, property } = cc._decorator;
 
@@ -19,20 +20,13 @@ export default class MainScene extends cc.Component {
     @property( cc.Node )
     topLayer: cc.Node = null;             // 最顶层
 
-    onLoad(): void {
+    async onLoad(): Promise<void> {
+        // await App.ResMrg.loadResource();
+        await App.ResMrg.loadUIForm();
         let start = Date.now();
-        cc.assetManager.loadBundle( 'UIBundle', ( err: Error, bundle: cc.AssetManager.Bundle ) => {
-            bundle.load<cc.Prefab>( "Scene/LobbyScenePb", cc.Prefab, ( err, res: cc.Prefab ) => {
-                console.log( "time: ", Date.now() - start );
-                if ( err ) {
-                    console.log( err );
-                    return;
-                }
-                res = bundle.get( "Scene/LobbyScenePb", cc.Prefab) as cc.Prefab;
-                console.log( res);
-                this.mainLayer.addChild( cc.instantiate( res ) );
-            } );
-        } );
+        const res = await App.ResMrg.getUIForm( "Scene/LobbyScenePb" );
+        console.log( "time: ", Date.now() - start );
+        this.mainLayer.addChild( cc.instantiate( res ) );
     }
 
 }

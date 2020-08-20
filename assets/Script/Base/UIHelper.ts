@@ -1,5 +1,4 @@
-import BaseUI from "./BaseUI";
-import LogUtils from "../core/LogUtils";
+import LogUtils from "../Util/LogUtils";
 import { IUIBinder, UIConstants } from "./UIConstants";
 /**
  * UI 
